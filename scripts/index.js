@@ -1,3 +1,6 @@
+// Adrian Fernandez Rodriguez
+//https://github.com/adriferro/PruebaNoEvaluableTema2.git
+
 const num = prompt();
 
 if(num>0){
